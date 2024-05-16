@@ -80,7 +80,7 @@
 ## Безопасный мессенжер для смартфона Briar
 * https://briarproject.org/
 
-## gmail
+## Тайна аккаунта gmail
 * Установите двухэтапную идентификацию одним из следующих способов:
   + Электронный ключ
      - https://landing.google.com/advancedprotection/
