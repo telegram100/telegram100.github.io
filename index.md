@@ -163,7 +163,7 @@
 
 ## Прочая информация
 * После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
-  + Если вы забыли выйти из аккаунта, то во многих прилодениях (как минимум, в Телегрфм, WhatApp и gmail) Вы можете удалённо выйти из аккаунта
+  + Если вы забыли выйти из аккаунта, то во многих приложениях (как минимум, в Телеграм, WhatApp и gmail) Вы можете удалённо выйти из аккаунта
 * Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
   + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
   + кажется все эти программы платные 
