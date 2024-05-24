@@ -173,7 +173,6 @@
 * Есть какой-то способ обойти цензуру:
   + если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
 
-https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
 <!-- TOC --><a name="welcome-to-the-app"></a>
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
 * Если Вам нужна более подробная информация, [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
