@@ -172,7 +172,7 @@
   + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
   + кажется все эти программы платные 
   + эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком
-* Информация с https://youtu.be/Ib4jFJrrgu8?si=ampMDm8RjRxlmiiS
+* Информация из этого видео https://youtu.be/Ib4jFJrrgu8?si=ampMDm8RjRxlmiiS:
   + устройство под названием UFED (Universal Forensics Extraction Device) фирмы Cellebrite или «Мобильный криминалист» позволяет извлекать из телефона личную переписку в большинстве мессенджеров, логины от всех сервисов, все пароли, сохранённые в браузере, контакты, фотографии с камеры, голосовые сообщения, комментарии на ютубе, содежимое облачных сервисов, и т.д.
     - LockPick
   + для этого нужно получить доступ к телефону на пару часов
@@ -182,6 +182,7 @@
   + этими устройствами оснащен каждый погранпункт
   + пограничники проверяют слова: Украина, СВО, ВСУ
   + 30 правозащитных организаций пытались протестовать
+  + по информации от следственного комитета России в 2019 г, они применяли это устройство 26 000 раз
 * Некоторые случаи отключения интернета
   + https://regions.ru/serpuhov/obschestvo/v-serpuhove-iz-za-hakerskoy-ataki-nablyudalis-sereznye-sboi-v-rabote-provaydera
  
