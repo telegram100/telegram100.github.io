@@ -168,7 +168,11 @@
   + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
   + кажется все эти программы платные 
   + эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком
-
+* Информация с https://youtu.be/Ib4jFJrrgu8?si=ampMDm8RjRxlmiiS
+  + российские силовики умеют взламывать мобильные устройства и извлекать из них практически любые данные — в том числе личную переписку в большинстве мессенджеров
+  + нужно получить доступ к телефону всего на пару часов, и от нее не защищены даже новые устройства
+  + Секрет успеха — израильские криминалистические комплексы Cellebrite UFED и их российско-американский аналог, «Мобильный криминалист», этими комплексами оснащен буквально каждый погранпункт
+ 
 ## Опубликовать статью
 * Есть какой-то способ обойти цензуру:
   + если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
