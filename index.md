@@ -193,7 +193,7 @@
     - устанавливать очень сложные пароли
     - lockdown mode в Apple
     - зашифровать рабочие устройства
-    - отключать телефон или компьтер в ситцациях, когда есть риск проверки
+    - отключать телефон или компьтер в ситуациях, когда есть риск проверки
 * Некоторые случаи отключения интернета
   + https://regions.ru/serpuhov/obschestvo/v-serpuhove-iz-za-hakerskoy-ataki-nablyudalis-sereznye-sboi-v-rabote-provaydera
  
