@@ -186,10 +186,16 @@ _Часть информации просто взята с каких-то са
   + отключать телефон или компьтер в ситуациях, когда есть риск проверки
 
 ## Шпионские программы для телефона
-Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
-* примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
-* кажется все эти программы платные 
-* эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком 
+* Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
+  + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
+  + кажется все эти программы платные 
+  + эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком
+* шпионскую программу **Pegasus** находят на устройствах журналистов и активистов, живущих в Европе
+  + был заражен телефон издателя "Медузы" Галины Тимченко
+  + в августе 2020 г. был заражен телефон генерального директора "Новой газеты Европа" Марии Епифановой
+  + в 2021 г. был заражен телефон представителя белорусского гражданского общества, проживающего в Вильнюсе
+  + в июне 2023 г. зафиксировали попытку заражения телефона российского журналиста из Вильнюса
+  + источник https://t.me/currenttime/35428
 
 ## Блокировки интернета
 * В 2024 году в России под блокировкой находятся почти 544 тысячи интернет-ресурсов, включая сайты, отдельные URL-адреса, группы IP-адресов (статистики общественного движения "Роскомсвобода")
