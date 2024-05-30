@@ -190,6 +190,24 @@
 * Есть какой-то способ обойти цензуру:
   + если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
 
+## Блокировки интернета
+* https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
+* конкретные примеры
+  + https://regions.ru/serpuhov/obschestvo/v-serpuhove-iz-za-hakerskoy-ataki-nablyudalis-sereznye-sboi-v-rabote-provaydera
+* советы
+  +  Tor
+  + - бесплатная сеть
+    - маскирует IP-адрес
+    - позволяя обходить блокировки
+    - позволяет анонимно обращаться к веб-сайтам через разные узлы
+  + Psiphon
+    - позволяет перенаправлять интернет-трафик, обеспечивая доступ к заблокированным ресурсам
+  + Lantern
+    - маршрутизация интернет-трафика через серверы в более свободных юрисдикциях => обход блокировок
+  + Amnesia
+    - операционная система на основе Linux
+    - созданная для обеспечения анонимности и безопасности
+
 ## Прочая информация
 * После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
   + Если вы забыли выйти из аккаунта, то во многих приложениях (Телеграм, WhatApp, gmail, ...) Вы можете удалённо выйти из аккаунта
@@ -197,8 +215,6 @@
   + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
   + кажется все эти программы платные 
   + эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком 
-* Некоторые случаи отключения интернета
-  + https://regions.ru/serpuhov/obschestvo/v-serpuhove-iz-za-hakerskoy-ataki-nablyudalis-sereznye-sboi-v-rabote-provaydera
  
 <!-- TOC --><a name="welcome-to-the-app"></a>
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
