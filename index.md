@@ -160,7 +160,7 @@ _Часть информации просто взята с каких-то са
 * 2 способ:
   + открывать в своём обычном браузере вкладку "Инкогнито"
 
-## Устройство UFED (Universal Forensics Extraction Device)
+## Шпионское устройство UFED (Universal Forensics Extraction Device)
 * Информация из этого видео https://youtu.be/Ib4jFJrrgu8?si=ampMDm8RjRxlmiiS:
 * израильская фирма Cellebrite, или российского производства Аксиом, Мобильный криминалист, или каких-то китайских производителей
 * позволяет извлекать из телефона личную переписку в большинстве мессенджеров, логины от всех сервисов, пароли, сохранённые в браузере, контакты, фотографии с камеры, голосовые сообщения, комментарии на ютубе, содежимое облачных сервисов, и т.д.
@@ -185,9 +185,11 @@ _Часть информации просто взята с каких-то са
   + зашифровать рабочие устройства
   + отключать телефон или компьтер в ситуациях, когда есть риск проверки
 
-## Опубликовать статью
-* Есть какой-то способ обойти цензуру:
-  + если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
+## Шпионские программы для телефона
+Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
+* примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
+* кажется все эти программы платные 
+* эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком 
 
 ## Блокировки интернета
 * В 2024 году в России под блокировкой находятся почти 544 тысячи интернет-ресурсов, включая сайты, отдельные URL-адреса, группы IP-адресов (статистики общественного движения "Роскомсвобода")
@@ -209,6 +211,9 @@ _Часть информации просто взята с каких-то са
   + Amnesia
     - операционная система на основе Linux
     - созданная для обеспечения анонимности и безопасности
+  + есть какой-то способ обойти цензуру на публикацию
+    - "если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html"
+
 * VPN
   + для доступа к программам и сервисам, которые подпадают под блокировки
   + это не панацея, так как и такой трафик можно, в теории, взломать (https://mobile-review.com/articles/2020/shutdown-soft.shtml)
@@ -227,10 +232,6 @@ _Часть информации просто взята с каких-то са
 ## Прочая информация
 * После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
   + Если вы забыли выйти из аккаунта, то во многих приложениях (Телеграм, WhatApp, gmail, ...) Вы можете удалённо выйти из аккаунта
-* Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
-  + примеры таких программ (список скорее всего не очень актуален): Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
-  + кажется все эти программы платные 
-  + эти программы не видны в списке установленных приложений на телефоне, либо замаскированы под каким-то вводящим в заблуждение именем и значком 
  
 <!-- TOC --><a name="welcome-to-the-app"></a>
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
