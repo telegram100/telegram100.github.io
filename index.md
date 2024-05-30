@@ -1,3 +1,5 @@
+* часть информации просто взята с каких-то сайтов и не особо проверена мной
+
 ## Тайна переписки в Телеграм
 * 1 способ: секретный чат и самоуничтожающиеся сообщения в Телеграм
   + создать секретный чат и включить самоуничтожение сообщений, как описано [здесь](https://lifehacker.ru/kak-sozdat-sekretnyj-chat-telegram/)
@@ -191,7 +193,9 @@
   + если ссылку https://www.bbc.com/russian/articles/cqvvldzy093o блокирует цензура, вот эта альтернативная наверняка откроется https://storage.googleapis.com/gsc-link/www.bbc.com/b3654a8c.html
 
 ## Блокировки интернета
-* https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
+* В 2024 году в России под блокировкой находятся почти 544 тысячи интернет-ресурсов, включая сайты, отдельные URL-адреса, группы IP-адресов (статистики общественного движения "Роскомсвобода")
+* Роскомнадзор избирательно блокировать трафик по так называемым протоколам
+  + оборудование с такой технической возможностью: Китай, Тайвань, Израиль, процессоры и чипсеты компании Intel - США и Тайвань, бренды Yadro и Vegman (https://www.dw.com/ru/tocecnye-blokirovki-vlasti-rf-soversenstvuut-internetcenzuru/a-68098739)
 * конкретные примеры
   + https://regions.ru/serpuhov/obschestvo/v-serpuhove-iz-za-hakerskoy-ataki-nablyudalis-sereznye-sboi-v-rabote-provaydera
 * советы
@@ -207,6 +211,13 @@
   + Amnesia
     - операционная система на основе Linux
     - созданная для обеспечения анонимности и безопасности
+* VPN
+  + cреди бесплатных VPN очень много скан-проектов - они могут отслеживать твой трафик, а потом передавать третьим лицам"
+  + рейтинг провайдеров VPN-услуг от "Роскомсвободы" https://storage.googleapis.com/vpnlove/index.html
+    - все проекты в нем платные, так как каждому VPN-проекту необходимо оплачивать работу технической службы и серверов
+* источники информации
+  + https://www.dw.com/ru/tocecnye-blokirovki-vlasti-rf-soversenstvuut-internetcenzuru/a-68098739
+  + https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
 
 ## Прочая информация
 * После использования любых аккаунтов на чужом компьютере не забывайте выходить из аккаунта
