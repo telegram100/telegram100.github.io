@@ -12,7 +12,6 @@ _Часть информации просто взята с каких-то са
     - некоторые зарубежные спецслужбы сотрудничают с российскими гласно или не гласно
     - важно следить за политическим контекстом - может случиться, что спецслужбы и государства договорятся
 * Cамые надёжные мессенжеры по этим трём параметрам: simpleX chat, signal, element, session, wire, cwtch, status.im, briar
-* эта информация из [этого видео](https://www.youtube.com/watch?v=maI_Ri2ucxo): 
   
 ![Capture d’écran de 2024-06-03 17-16-36](https://github.com/telegram100/telegram100.github.io/assets/169940614/568d3321-c458-42ef-b7b5-8fae631c536c)
 
@@ -223,7 +222,6 @@ _Часть информации просто взята с каких-то са
     - шифрование всего трафика
     - _надежный проверенный_ VPN (провайдер будет видеть только то, что от вас исходит какой-то трафик в сторону VPN-сервера, и от него в вашу сторону ответный трафик, но не смогут узнать, смотрели ли вы Ютуб, переписывались в Signal и т.п.
     - VPN не скрывает местоположение
-* https://phonsee.com/blog/fr/how-to-listen-others-cell-phones/
 * Инструмент, позволяющий обнаруживать следы слежки на телефоне (например Pegasus) https://github.com/mvt-project/mvt
 
 ## Другие шпионские методы
@@ -291,9 +289,6 @@ _Часть информации просто взята с каких-то са
   + например приложение FireChat в Гонконге
   + другой пример, мессежер Briar
   + установить эти приложения необходимо до того, как случилось отключение сети
-* источники информации
-  + https://www.dw.com/ru/tocecnye-blokirovki-vlasti-rf-soversenstvuut-internetcenzuru/a-68098739
-  + https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
 
 ## Прочая информация
 * Статья [Моего близкого задержали. Как быть с общими переписками?](https://dept.one/memo/perepiski/)
@@ -301,6 +296,12 @@ _Часть информации просто взята с каких-то са
   + если вы забыли выйти из аккаунта на чужом компьютере, то во многих приложениях (Телеграм, WhatApp, gmail, ...) Вы можете сделать это удалённо
 * Файлы можно хранить на надежных облачных сервисах, которые используют end-to-end шифрование: Proton Drive, MEGA, Tresorit
 * Не обсуждайте чувствительные темы в популярных мессенджерах
+* Некоторые источники всей этой информации
+  + https://trashexpert.ru/mobile/smartphones/track-phone-location
+  + https://www.dw.com/ru/tocecnye-blokirovki-vlasti-rf-soversenstvuut-internetcenzuru/a-68098739
+  + https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
+  + https://phonsee.com/blog/fr/how-to-listen-others-cell-phones/
+  + https://www.youtube.com/watch?v=maI_Ri2ucxo
 
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
 * Если Вам нужна более подробная информация, [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
