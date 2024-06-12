@@ -238,9 +238,10 @@ _Часть информации просто взята с каких-то са
   + человек сам должен включить опцию "поделиться своим местоположением"
   + например, WhatsApp, Facebook Messenger, Telegram, Snapchat, Line
 
-## Другие шпионские методы
+## Другие методы слежки
 * сервис для определения телефонных контактов
   + например Truecaller 
+* [статья о том, как ФСБ вынудило BlaBlaCar передавать им данные](https://www.agents.media/vy-chto-paru-millionov-ne-najdete-kak-fsb-podklyuchalas-k-serveram-blablacar/)
 * базы данных
   + например Spokeo, IPQualityScore
 * дроны
