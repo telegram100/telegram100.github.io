@@ -243,6 +243,12 @@ _Часть информации просто взята с каких-то са
   + человек сам должен включить опцию "поделиться своим местоположением"
   + например, WhatsApp, Facebook Messenger, Telegram, Snapchat, Line
 
+## Защита от прослушки телефона
+* Криптографическая защита телефонных разговоров 
+* Постановщики заградительных помех _Цикада_, _Протон_, _Прокруст_, _Гром_
+* Нейтрализаторпы выводят из строя устройств контактные жучки с помощью кратковременного высоковольтного напряжения на линии
+* Есть устройства для выявления жучков
+ 
 ## Другие методы слежки
 * сервис для определения телефонных контактов
   + например Truecaller 
@@ -327,6 +333,7 @@ _Часть информации просто взята с каких-то са
   + https://thebell.io/vlasti-osvaivayut-tochechnuyu-blokirovku-interneta-kak-eto-delaetsya-i-kak-s-etim-borotsya
   + https://phonsee.com/blog/fr/how-to-listen-others-cell-phones/
   + https://www.youtube.com/watch?v=maI_Ri2ucxo
+  + http://sms-security.ru/antiterroristicheskoe_oborudovanie/aktualno/ 
 
 ## Обратная связь <img align="right" width="60" height="60" src="https://github.com/akostrik/stage_telegram/assets/22834202/9d78c9d6-c4c6-4566-9e83-3dcbc02e311e"> 
 * Если Вам нужна более подробная информация, [напишите пожалуйста мне](mailto:stage.mongodb@gmail.com)
