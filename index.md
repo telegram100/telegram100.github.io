@@ -50,6 +50,7 @@ _Часть информации просто взята с каких-то са
   + в зависимости от пароля, который вводите, показывает разный набор чатов и подписок
   + только для андроида
   + [видео об этом](https://www.youtube.com/watch?v=7cf5MCtVvBc)
+* https://meduza.io/feature/2023/04/16/pyat-let-nazad-vlasti-blokirovali-telegram-a-posle-nachala-voyny-eto-odno-iz-glavnyh-prilozheniy-v-rf-kak-polzovatsya-im-bezopasno
  
 ### Сохранить аккаунт Телеграм в случае потери сим-карты
 * 1 способ: заранее установить в аккаунте Телеграм двухфакторную аутентификацию (мейл и облачный пароль к аккаунту Телеграм)
