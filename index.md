@@ -216,6 +216,7 @@ _Часть информации просто взята с каких-то са
 * источник: https://youtu.be/Ib4jFJrrgu8?si=ampMDm8RjRxlmiiS
 
 ## Шпионские программы для телефона
+* [Монокль](https://dept.one/memo/monocle/)
 * Если Ваш телефон попадёт в руки к злоумышленнику хотя бы на несколько минут, то он может установить программу, которая будет постоянно сообщать ему Вашу переписку (смс, Телеграм, WhatsApp, и т.д.), аудиозапись Ваших телефоннных звонков, историю Вашего местоположения, даже кажется записывать на микрофон и видеокамеру телефона всё, что происходит вокруг.
   + примеры таких программ: Free Android Spy, ns cloud, super sound, hoverwatch, iKeyMonitor, telspy, FlexiSPY, mobiletool, mSpy, spyera, Spyic.app, cocospy, evezy, mspy-app.co, spylix, neospy, SpyBubble, umobix, spyZie, Children Tracker, qustodio, Cell Tracker, observer, Alfred Camera, Android Spy, callr, Cerberus, Ear Agent, Ear spy, EyeZy, finda, geofy, Home Security Camera, reptilicus.net, ntego ContentBarrier, iSpyoo, JumpCloud, mobile-find.mobi, MobileTracker, mobilocator, MobiStealth, monitorMinor, OpinionSpy, PhoneSpector, Reptilicus, spy message, SpyHuman, statlook, XNSPY.app, Phonsee, mSpy, Eyezy, TapeACall, Клевгард, миншпион, Мобильный шпион, ПКTattletale, Правда-шпион, шпион, Шпионская Камера HD
   + кажется все эти программы платные 
